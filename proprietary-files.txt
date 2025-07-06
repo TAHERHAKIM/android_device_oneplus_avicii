@@ -298,7 +298,7 @@ vendor/lib64/libtriplecam_optical_zoom_control.so
 vendor/lib64/libtriplecam_video_optical_zoom.so
 vendor/lib64/vendor.oplus.hardware.cameraMDM@1.0.so
 vendor/lib64/vendor.oplus.hardware.cammidasservice@1.0.so
-vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so|031dd66a2715ca6f166bb5004c600eb177e76908|f5d9516285727061f7145487613c273d5540f4aa
+vendor/lib64/vendor.qti.hardware.camera.postproc@1.0-service-impl.so
 
 # Camera firmware
 vendor/firmware/CAMERA_ICP.elf
