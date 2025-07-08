@@ -130,7 +130,6 @@ vendor/lib64/vendor.qti.hardware.fm@1.0.so
 odm/bin/vl53l1_daemon_main
 odm/etc/camera/fb_default
 odm/etc/camera/fwk_config.json
-odm/lib64/camera/components/com.qti.node.remosaic.so
 odm/lib64/libSonyIMX471RmscLibrary.so
 odm/lib64/libormshalclient.so
 odm/lib64/libvl53l1_daemon.so
@@ -781,8 +780,8 @@ vendor/firmware/lagoon_ipa_fws.elf
 vendor/firmware/lagoon_ipa_fws.mdt
 
 # Iris (Dependencies)
-vendor/lib64/libpwirisfeature.so;MODULE_SUFFIX=_odm
-vendor/lib64/libpwirishalwrapper.so;MODULE_SUFFIX=_odm
+vendor/lib64/libpwirisfeature.so
+vendor/lib64/libpwirishalwrapper.so
 vendor/lib64/libpwirisIoctlWrapper.so
 vendor/lib64/vendor.pixelworks.hardware.display@1.0.so
 vendor/lib64/vendor.pixelworks.hardware.display@1.1.so
